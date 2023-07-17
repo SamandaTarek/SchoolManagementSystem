@@ -26,7 +26,7 @@ As Required, you can see all the data that was registered in our DB it includes 
 2. *Add single Entry for 1 student button:* I personally think this feature is cool because the image get displayed before it is sent to the database and any of the previously mentioned fields could be filled in very easily.
 3. "Real Time Change in DB": once you Edit, Delete or Add a new students it is directly sent to the database.
 
-#### Required Feature that wasn't fully implemented: ####
+#### Required Feature that wasn't fully implemented: (not required) ####
 1. *Export Data To Excel*: I've put the button in the UI but due to issues that I'll mention further down. Sadly, I couldn't finish it within the time frame. (Please refer to the challenges section)
 
 ### Multiple Entry Registration Window : ###
@@ -37,7 +37,7 @@ As Required, you can add 1 or more students at the same time dynamically to the 
 2. Student Second Name
 4. Student Note (which is optional)
 
-#### Additional Feautures: ####
+#### Additional Feautures: (not required) ####
 *real time display of the entries data:* while you're writing the data you can see it formulating in a table like area which is displayed sequentially with the order you typed with. this gives the user an quick overview of what he/she is going to deliver to the Database before delivering it.
 
 #### Required Feature that wasn't fully implemented: ####
