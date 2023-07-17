@@ -1,5 +1,5 @@
 # School Management System #
-
+![Alt text](schoolBus.gif)
 ### Steps to Initiate the start : ###
 ---------------
 1. git clone
