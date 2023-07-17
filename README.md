@@ -22,8 +22,8 @@ As Required, you can see all the data that was registered in our DB it includes 
 4. Student Note (which is optional)
 
 #### Additional Feautures: (not required) ####
-1. *Edit/ delete buttons:* You can either edit or delete any of those entries whwnever you want with just a click of a button
-2. *Add single Entry for 1 student button:* I personally think this feature is cool because the image get displayed before it is sent to the database and any of the previously mentioned fields could be filled in very easily.
+1. *Edit/ delete buttons: * You can either edit or delete any of those entries whwnever you want with just a click of a button
+2. *Add single Entry for 1 student button: * I personally think this feature is cool because the image get displayed before it is sent to the database and any of the previously mentioned fields could be filled in very easily.
 3. "Real Time Change in DB": once you Edit, Delete or Add a new students it is directly sent to the database.
 
 #### Required Feature that wasn't fully implemented:  ####
@@ -38,7 +38,7 @@ As Required, you can add 1 or more students at the same time dynamically to the 
 4. Student Note (which is optional)
 
 #### Additional Feautures: (not required) ####
-*real time display of the entries data:* while you're writing the data you can see it formulating in a table like area which is displayed sequentially with the order you typed with. this gives the user an quick overview of what he/she is going to deliver to the Database before delivering it.
+*real time display of the entries data: * while you're writing the data you can see it formulating in a table like area which is displayed sequentially with the order you typed with. this gives the user an quick overview of what he/she is going to deliver to the Database before delivering it.
 
 #### Required Feature that wasn't fully implemented: ####
 I discovered during testing that there is a bug that prevents it from delivering to the database as planned; but, given the circumstances and the deadline, I sadly had to submit the work with this feature incomplete. Later on, I'll try to figure out why it isn't functioning as I had hoped. (also a reminder, kindly refer to the challenges section)
